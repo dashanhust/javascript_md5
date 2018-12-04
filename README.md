@@ -1,0 +1,2 @@
+# javascript_md5
+使用javascript计算文件MD5，可以用在用户上传文件的时候，计算文件的MD5，让用户进行二次确认的目的
