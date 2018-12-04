@@ -12,4 +12,5 @@ python manage.py runserver
 
 # 运行结果
 启动页面之后，查看结果如下
+
 ![计算文件MD5](https://github.com/dashanhust/javascript_md5/blob/master/django1_11_project_test/static/img/result_1.png)
